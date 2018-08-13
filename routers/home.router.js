@@ -9,7 +9,7 @@ router.get('/', (req, res) => {
 
 router.get('/name', (req, res) => {
     const { name } = req.query;
-    res.send(`Hello World, ${name}!`);
+    res.send(`<h1>Hello World</h1>, ${name}!`);
 });
 
 module.exports = router;
