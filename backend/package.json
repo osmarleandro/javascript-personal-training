@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend project os js training",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/osmarleandro/js-private-training/backend"
+  },
+  "author": "Osmar Leandro <github.com/osmarleandro>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "swagger-ui-express": "^3.0.10",
+    "yamljs": "^0.3.0"
+  }
+}
