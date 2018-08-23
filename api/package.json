@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "api",
   "version": "1.0.0",
   "description": "backend project os js training",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/osmarleandro/js-private-training/backend"
+    "url": "github.com/osmarleandro/js-private-training/api"
   },
   "author": "Osmar Leandro <github.com/osmarleandro>",
   "license": "ISC",
